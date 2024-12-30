@@ -26,7 +26,7 @@ Python 3.9+
 
 Streamlit
 
-phi library (Claude, FirecrawlTools, and DuckDuckGo integrations)
+phidata library (Claude, FirecrawlTools, and DuckDuckGo integrations)
 
 python-dotenv for environment variable management
 
