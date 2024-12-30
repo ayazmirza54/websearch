@@ -1,0 +1,15 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+firecrawl-py
+streamlit
+anthropic
+fastapi
+uvicorn
+typing
+pydantic
