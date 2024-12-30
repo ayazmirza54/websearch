@@ -1,8 +1,8 @@
-Web Search Assistant
+# Web Search Assistant
 
 The Web Search Assistant is an intelligent web-based tool built with Streamlit and powered by the Claude AI model. It leverages DuckDuckGo search capabilities and web scraping tools to provide detailed answers and citations for user queries. The assistant is designed to be user-friendly, informative, and interactive, offering precise and comprehensive responses.
 
-Features
+##Features
 
 Web Search: Search the web for information using DuckDuckGo.
 
@@ -20,7 +20,7 @@ Session Management: Maintains chat history during the session.
 
 ---
 
-Requirements
+## Requirements
 
 Python 3.9+
 
@@ -34,40 +34,43 @@ python-dotenv for environment variable management
 
 ---
 
-Installation
+## Installation
 
 1. Clone the Repository:
 
-git clone https://github.com/your-repo/web-search-assistant.git
-
+```
+git clone https://github.com/your-repo/websearchai.git
+```
+`
 cd web-search-assistant
-
+`
 
 2. Install Dependencies:
 
+```python
 pip install -r requirements.txt
-
+```
 
 3. Set Up Environment Variables: Create a .env file in the root directory with your API keys and credentials, if necessary:
-
+`
 CLAUDE_API_KEY=your_api_key_here
-
+`
 
 4. Run the Application:
-
+`
 streamlit run app.py
-
+`
 
 
 
 ---
 
-Usage
+## Usage
 
 1. Open the app in your browser. It typically runs at
-
+`
  http://localhost:8501
-
+`
 
 2. Enter your query in the chat box.
 
@@ -82,7 +85,7 @@ Usage
 
 ---
 
-Code Overview
+## Code Overview
 
 Main Components
 
@@ -114,7 +117,7 @@ Sidebar for additional app information.
 
 
 
-Acknowledgments
+## Acknowledgments
 
 Anthropic Claude: For the AI model powering the assistant.
 
