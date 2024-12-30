@@ -1,4 +1,4 @@
-# Web Search Assistant
+# 🔎 Web Search Assistant
 
 The Web Search Assistant is an intelligent web-based tool built with Streamlit and powered by the Claude AI model. It leverages DuckDuckGo search capabilities and web scraping tools to provide detailed answers and citations for user queries. The assistant is designed to be user-friendly, informative, and interactive, offering precise and comprehensive responses.
 
