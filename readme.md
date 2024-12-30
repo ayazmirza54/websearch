@@ -39,6 +39,7 @@ Installation
 1. Clone the Repository:
 
 git clone https://github.com/your-repo/web-search-assistant.git
+
 cd web-search-assistant
 
 
@@ -63,7 +64,9 @@ streamlit run app.py
 
 Usage
 
-1. Open the app in your browser. It typically runs at http://localhost:8501.
+1. Open the app in your browser. It typically runs at
+
+ http://localhost:8501
 
 
 2. Enter your query in the chat box.
@@ -110,24 +113,6 @@ Chat-based UI with dynamic updates.
 Sidebar for additional app information.
 
 
-
-
-
----
-
-Contributing
-
-Contributions are welcome! If you find a bug or want to propose a feature, feel free to create an issue or submit a pull request.
-
-
----
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
----
 
 Acknowledgments
 
